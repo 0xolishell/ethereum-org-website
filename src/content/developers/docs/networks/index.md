@@ -39,7 +39,7 @@ The two public testnets that client developers are currently maintaining are Sep
 #### Sepolia {#sepolia}
 
 **Sepolia is the recommended default testnet for application development**.
-The Sepolia network uses a permissioned validator set. It's fairly new, meaning its state and history are both quite small. This means the network is quick to sync to and that running a node on it requires less storage. This is useful for users who want to quickly spin up a node and interact with the network directly.
+The Sepolia network uses a permissioned validator set. It's fairly new, meaning its state and history are both quite small. This means the network is quick to sync to and that running a node on it requires less storage. This is useful for users who want to quickly spin up a node and interact with the network directly. 
 
 - Closed validator set, controlled by client & testing teams
 - New testnet, less applications deployed than other testnets
@@ -54,10 +54,13 @@ The Sepolia network uses a permissioned validator set. It's fairly new, meaning 
 
 ##### Faucets
 
+- [Alchemy Sepolia faucet](https://sepoliafaucet.com/)
 - [Grabteeth](https://grabteeth.xyz/)
 - [PoW faucet](https://sepolia-faucet.pk910.de/)
 - [Sepolia faucet](https://faucet.sepolia.dev/)
 - [FaucETH](https://fauceth.komputing.org)
+
+#### Additional Resources 
 
 #### Goerli _(long-term support)_ {#goerli}
 
@@ -77,11 +80,11 @@ Goerli is testnet for testing of validating and staking. The Goerli network is o
 
 ##### Faucets
 
+- [Paradigm faucet](https://faucet.paradigm.xyz/)
+- [Alchemy Goerli Faucet](https://goerlifaucet.com/)
 - [Grabteeth](https://grabteeth.xyz/)
 - [PoW faucet](https://goerli-faucet.pk910.de/)
 - [Goerli faucet](https://faucet.goerli.mudit.blog/)
-- [Paradigm faucet](https://faucet.paradigm.xyz/)
-- [Alchemy Goerli Faucet](https://goerlifaucet.com/)
 - [All That Node Goerli Faucet](https://www.allthatnode.com/faucet/ethereum.dsrv)
 
 To launch a Validator on Goerli testnet, use ethstaker's ["cheap goerli validator" launchpad](https://goerli.launchpad.ethstaker.cc/en/).
